@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="utils.cpp" />
+    <ClCompile Include="netchan.cpp" />
+    <ClCompile Include="translate.cpp" />
+    <ClCompile Include="dvar.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="dllmain.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="utils.h" />
+    <ClInclude Include="netchan.h" />
+    <ClInclude Include="translate.h" />
+    <ClInclude Include="dvar.h" />
+  </ItemGroup>
+</Project>
